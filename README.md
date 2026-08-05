@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=H-R-U-T-I-K%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/313476489?s=400&u=337c95d6bdd3deb0e770672a9d64e6854928458d&v=4&backgroundColor=%23e4f2f6&instagram=hrutik_maxx&github=H-R-U-T-I-K &)
+![My card name](https://cardivo.vercel.app/api?name=H-R-U-T-I-K%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/313476489?s=400&u=337c95d6bdd3deb0e770672a9d64e6854928458d&v=4&backgroundColor=%23e4f2f6&instagram=hrutik_maxx&github=H-R-U-T-I-K&)
 </p>
 </br>
 <p align="center">
