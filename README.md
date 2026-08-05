@@ -1,30 +1,4 @@
-## Hi there 👋
-
-<!--
-**H-R-U-T-I-K/H-R-U-T-I-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-.
-.
-.
-.
-.
-
-
-
-
-
-![My card name](https://cardivo.vercel.app/api?name=HRUTIK-MAXX%20&description=Hi,%20Welcome%20To%20My%20Profile&image=(https://avatars.githubusercontent.com/u/313476489s=400&u=337c95d6bdd3deb0e770672a9d64e6854928458d&v=4)&backgroundColor=%23e4f2f6&instagram=hrutik_maxx&github=RUSH-OFFICIAL&)
+![My card name](https://cardivo.vercel.app/api?name=RUSH-OFFICIAL%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://avatars.githubusercontent.com/u/217618894?s=400&u=6c4aeb80cdb743e8cc6c63c9c0894762c24ff8a0&v=4&backgroundColor=%23e4f2f6&instagram=hrutik_maxx&github=RUSH-OFFICIAL&)
 </p>
 </br>
 <p align="center">
@@ -44,14 +18,3 @@ Here are some ideas to get you started:
 </a>
 <a href="https://youtube.com/@hrutik_official"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
-
-
-
-
-
-
-
-
-
-.
-https://avatars.githubusercontent.com/u/313476489?s=400&u=337c95d6bdd3deb0e770672a9d64e6854928458d&v=4
