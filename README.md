@@ -10,11 +10,27 @@
   <a href="mailto:rushmaster2k@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-<a href="https://wa.me/917020728211?text=__𝑯𝑬𝒀★R𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵R_☯️_𝗪𝗛𝗔𝗧'𝗦_𝗨𝗣_𝗕𝗥𝗢🥰_🙏🏻" target="_blank">
+<a href="https://wa.me/917020728211?text=__𝑯𝑬𝒀★R𝐔𝐒𝚮-𝚳𝚫𝐒𝚻𝚵R_JI_☯️_𝗪𝗛𝗔𝗧'𝗦_𝗨𝗣_𝗕𝗥𝗢🥰_🙏🏻" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
 </a>
 <a href="https://instagram.com/hrutik_maxx" target="_blank">
      <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
 </a>
 <a href="https://youtube.com/@hrutik_maxx"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
